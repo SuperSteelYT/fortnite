@@ -1,2 +1,2 @@
-# fortnite
-supreme website that's not by speediv
+# moved
+moved to https://justretro.neocities.org/fortnite.html
