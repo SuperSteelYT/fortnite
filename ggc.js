@@ -1,10 +1,10 @@
-let element = document.getElementById("s");
+let element = document.getElementById("ggc");
 element.addEventListener("click", function() 
 {
-	const text = document.getElementById("st");
+	const text = document.getElementById("ggct");
 	if (text.value === "ggc4life")
 	{
-		location.href = "secret.html";
+		location.href = "ggc.html";
 	}
 	else
 	{
