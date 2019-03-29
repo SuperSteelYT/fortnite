@@ -16,7 +16,7 @@ function startTime()
     h = h - 12
     tod = "PM";
   }
-  document.getElementById('txt').innerHTML = h + ":" + m + " " + tod + " ET";
+  document.getElementById('txt').innerHTML = h + ":" + m + " " + tod + " EDT";
   var t = setTimeout(startTime, 500);
 }
 function checkTime(i)
