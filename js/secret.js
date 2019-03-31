@@ -13,3 +13,16 @@ element.addEventListener("click", function()
 		resp.innerHTML = "incorrect. try again";
 	}
 });
+
+function toggleVisibility()
+{
+	const toggle = document.getElementById("secrettext");
+	if (toggle.type === "password")
+	{
+		toggle.type = "text";
+	}
+	else
+	{
+		toggle.type = "password";
+	}
+}
