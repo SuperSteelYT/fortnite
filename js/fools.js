@@ -14,6 +14,4 @@ function fools()
     	link.setAttribute("href", "css/fools.css");
     	document.getElementsByTagName("head").item(0).replaceChild(link, oldlink);
 	}
-
-	let t = setInterval(fools, 500);
 }
