@@ -19,6 +19,12 @@ normal-spacing: {
   right: 16px;
 }
 
+.topleft {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
 .button {
   background-color: #333333;
   border: none;
