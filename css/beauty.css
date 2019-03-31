@@ -107,11 +107,11 @@ li a:hover
 { 
   position: absolute;
   right: 16px;
-  bottom: 8px;
+  bottom: 32px;
   margin-bottom: 0;
 }
 
-.news
+.entrance
 {
   text-align: center;
   width: 50%;
@@ -132,4 +132,12 @@ input[type=text].secret, input[type=password].secret
   border: 1px solid #111;
   background-color: #222;
   color: white;
+}
+
+.news
+{
+  background-color: #222;
+  position: absolute;
+  right: 16px;
+  bottom: 8px;
 }
