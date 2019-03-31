@@ -123,18 +123,7 @@ a.link
   color: hotpink;
 }
 
-input[type=password].secret
-{
-  width: 25%;
-  padding: 12px 20px;
-  margin: 8px 0;
-  box-sizing: border-box;
-  border: 1px solid #111;
-  background-color: #222;
-  color: white;
-}
-
-input[type=text].secret
+input[type=text].secret, input[type=password].secret
 {
   width: 25%;
   padding: 12px 20px;
