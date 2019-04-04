@@ -3,7 +3,7 @@ element.addEventListener("click", function()
 {
 	const text = document.getElementById("secrettext");
 	const resp = document.getElementById("resp");
-	if (text.value === "ggc4life")
+	if (text.value === "sfipl")
 	{
 		location.href = "ggc.html";
 		resp.innerHTML = "correct. welcome!";
